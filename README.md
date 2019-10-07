@@ -1,3 +1,3 @@
-# Библитека AsyncCplusPlus
+# Изучение работы с акторами, actor-framework (CAF)
 
-https://github.com/Amanieu/asyncplusplus
+https://github.com/actor-framework/actor-framework
